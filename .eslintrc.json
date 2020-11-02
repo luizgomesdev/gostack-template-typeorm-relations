@@ -27,7 +27,7 @@
         "argsIgnorePattern": "_"
       }
     ],
-    "no-useless-constructor": "off",
+    "no-useless-constructor": ["off", { "endOfLine": "auto" }],
     "@typescript-eslint/interface-name-prefix": [
       "error",
       {
